@@ -7,7 +7,7 @@
 
 - Utilize the **<Provider />** component, the `connect` function and
   `mapStateToProps` to access **Redux** store content.
-
+ 
 ## Overview
 
 In this lesson, we want to explore how `mapStateToProps` is used to connect
